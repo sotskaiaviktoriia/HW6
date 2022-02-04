@@ -22,3 +22,5 @@ alert(division);
 
 let exponentiation = x ** y;
 alert(exponentiation);
+
+console.log("New feature");
